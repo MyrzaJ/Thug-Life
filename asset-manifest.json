@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MyrzaJ/thug-life.git/static/css/main.4d346c71.css",
+    "main.js": "/MyrzaJ/thug-life.git/static/js/main.2a4dc655.js",
+    "static/js/787.e8d5c2fd.chunk.js": "/MyrzaJ/thug-life.git/static/js/787.e8d5c2fd.chunk.js",
+    "index.html": "/MyrzaJ/thug-life.git/index.html",
+    "main.4d346c71.css.map": "/MyrzaJ/thug-life.git/static/css/main.4d346c71.css.map",
+    "main.2a4dc655.js.map": "/MyrzaJ/thug-life.git/static/js/main.2a4dc655.js.map",
+    "787.e8d5c2fd.chunk.js.map": "/MyrzaJ/thug-life.git/static/js/787.e8d5c2fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d346c71.css",
+    "static/js/main.2a4dc655.js"
+  ]
+}
